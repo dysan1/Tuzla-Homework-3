@@ -1,0 +1,6 @@
+c:\users\dysan smajic\documents\visual studio 2013\Projects\Tuzla Homework 3\Tuzla Homework 3\bin\Debug\Tuzla Homework 3.exe.config
+c:\users\dysan smajic\documents\visual studio 2013\Projects\Tuzla Homework 3\Tuzla Homework 3\bin\Debug\Tuzla Homework 3.exe
+c:\users\dysan smajic\documents\visual studio 2013\Projects\Tuzla Homework 3\Tuzla Homework 3\bin\Debug\Tuzla Homework 3.pdb
+c:\users\dysan smajic\documents\visual studio 2013\Projects\Tuzla Homework 3\Tuzla Homework 3\obj\Debug\Tuzla Homework 3.csprojResolveAssemblyReference.cache
+c:\users\dysan smajic\documents\visual studio 2013\Projects\Tuzla Homework 3\Tuzla Homework 3\obj\Debug\Tuzla Homework 3.exe
+c:\users\dysan smajic\documents\visual studio 2013\Projects\Tuzla Homework 3\Tuzla Homework 3\obj\Debug\Tuzla Homework 3.pdb
